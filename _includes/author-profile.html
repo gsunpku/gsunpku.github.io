@@ -27,6 +27,9 @@
       {% if author.location %}
         <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
+      {% if author.department %}
+        <li><a href="{{ author.department }}"><i class="fab fa-fw fa-school" aria-hidden="true"></i> School</a></li>
+      {% endif %}
       {% if author.employer %}
         <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
       {% endif %}
