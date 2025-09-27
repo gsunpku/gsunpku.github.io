@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              :  " "
   location         : "Room 345, IME Building"
-  location-1       : "School of Integrated Circuit"
+  department       : "School of Integrated Circuit"
   employer         : "Peking University"
   uri              : # URL
   email            : "gsun-at-pku.edu.cn" 
