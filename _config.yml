@@ -27,7 +27,8 @@ author:
   name             : "Guangyu Sun"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sideba"
-  location         : "Room 345, School of Integrated Circuit"
+  location         : "Room 345, IME Building"
+  location         : "School of Integrated Circuit"
   employer         : "Peking University"
   uri              : # URL
   email            : "gsun-at-pku.edu.cn" 
