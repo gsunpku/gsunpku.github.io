@@ -6,6 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Full Professor, Peking University
+
+News
+------
+
+
+------
 Bio
 ------
 Dr. Guangyu Sun is currently a Full Professor in the School of Integrated Circuits at Peking University. He received his B.S. and M.S. degrees from Tsinghua University, Beijing, in 2003 and 2006, respectively, and his Ph.D. degree from the Pennsylvania State University in 2011. His Ph.D. thesis, "Exploring Memory Hierarchy Design with Emerging Memory Technologies," received the 2012 EDAA Outstanding Dissertation Award. 
@@ -15,4 +22,5 @@ His research focuses on computer architecture design and automation technologies
 His achievements have also been recognized with awards, including the CCF Natural Science First Prize (ranked 1st) and the Ministry of Education Natural Science Second Prize (ranked 2nd). He has received honors such as the DAC Under-40 Innovators Award, the CCF-IEEE CS Young Computer Scientist Award, and the Beijing Zhiyuan Young Scientist Award, and has been inducted into the Hall of Fame for both the HPCA and FPGA conferences. 
 
 He has been serving as the PI and co-PI on many research grants from NSFC. His research work has also been supported by Alibaba DAMO Academy, Huawei, Baidu, AMD, Intel, MSRA, etc. Dr. Sun is an active volunteer in design automation and computer architecture communities. He was the general co-chair of NVMSA2021 and the TPC co-chair of NVMSA2020, RTCSA2019, APPT2017, and NAS2012. He has served as a program committee member and a track chair for over 20 conferences in these areas, including DAC, ICCAD, MICRO, HPCA, etc. He is currently an Associate Editor for ACM JETC. His editorial services also include previous appointments as an Editorial Board Member and Guest Editor for several journals, including ACM TECS, IEEE TC, CCF HPCC, etc.
+
 
