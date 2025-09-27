@@ -13,6 +13,7 @@ News
 
 
 ------
+
 Bio
 ------
 Dr. Guangyu Sun is currently a Full Professor in the School of Integrated Circuits at Peking University. He received his B.S. and M.S. degrees from Tsinghua University, Beijing, in 2003 and 2006, respectively, and his Ph.D. degree from the Pennsylvania State University in 2011. His Ph.D. thesis, "Exploring Memory Hierarchy Design with Emerging Memory Technologies," received the 2012 EDAA Outstanding Dissertation Award. 
