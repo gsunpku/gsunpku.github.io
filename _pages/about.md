@@ -13,7 +13,7 @@ News
 - **Sept. 2025**: Invited talk at the Global Memory Innovation Forum [GMIF](https://www.gmif.com.cn/). 
 - **Sept. 2025**: Invited talk at [CCFSys](https://ccf.org.cn/CCFSys2023).
 - **Aug 2025**: One paper is accepted to ASPDAC 2026. Congratulations to Chenhao.
-- **July 2025**: Paper titled "H2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference" wins **<font color=red>2025 ISCA Best Paper Award</font>**.
+- **July 2025**: Paper titled "H2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference" wins <font color=red>2025 ISCA Best Paper Award</font>.
 - **July 2025**: One paper is accepted to ICCAD 2025. Congratulations to Yi and Chenhao.
 - **April 2025**: Two papers are accepted to APPT 2025. Congratulations to Jinwei and Jingchen.
 
