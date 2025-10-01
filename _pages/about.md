@@ -29,4 +29,27 @@ His achievements have also been recognized with awards, including the CCF Natura
 
 He has been serving as the PI and co-PI on many research grants from NSFC. His research work has also been supported by Alibaba DAMO Academy, Huawei, Baidu, AMD, Intel, MSRA, etc. Dr. Sun is an active volunteer in design automation and computer architecture communities. He was the general co-chair of NVMSA2021 and the TPC co-chair of NVMSA2020, RTCSA2019, APPT2017, and NAS2012. He has served as a program committee member and a track chair for over 20 conferences in these areas, including DAC, ICCAD, MICRO, HPCA, etc. He is currently an Associate Editor for ACM JETC. His editorial services also include previous appointments as an Editorial Board Member and Guest Editor for several journals, including ACM TECS, IEEE TC, CCF HPCC, etc.
 
+------
+
+To Perspective Postdocs, Students, and Interns
+------
+I am looking for highly motivated graduate students, postdocs, and interns to work on computer architecture and design automation. Students with strong hands-on hardware coding (Verilog), system building skills, and algorithm background are especially welcome.
+
+------
+
+Teaching
+------
+- Computer Architecture and Intelligent Chip Design (*Spring Semester*)
+- Research Exploration for Advanced Chip Architecture Design (*Fall Semester*)
+
+------
+
+Awards and Honors
+------
+
+------
+
+Selected Recent Publications [(Full List)]()
+------
+
 
