@@ -33,7 +33,7 @@ He has been serving as the PI and co-PI on many research grants from NSFC. His r
 
 To Perspective Postdocs, Students, and Interns
 ------
-I am looking for highly motivated graduate students, postdocs, and interns to work on computer architecture and design automation. Students with strong hands-on hardware coding (Verilog), system building skills, and algorithm background are especially welcome.
+I am looking for highly motivated graduate students, postdocs, and interns to work on computer architecture and design automation. Students with strong hands-on hardware coding (Verilog), system-building skills, and algorithm background are especially welcome.
 
 ------
 
@@ -46,6 +46,11 @@ Teaching
 
 Awards and Honors
 ------
+- **<font color=red>Best Paper Award</font>**: International Symposium on Computer Architecture (**ISCA**) 2025.
+- **CCF Natural Science First Prize**: China Computer Federation (CCF) Science and Technology Achievement Award 2025.
+- **MOE Natural Science Second Prize**: Ministry of Education Natural Science Award 2025.
+- **<font color=red>Best Paper Award</font>**: International Symposium of EDA (**ISEDA**) 2025.
+- **Best Paper Nomination**: International Symposium on High-Performance Computer Architecture (**HPCA**) 2025. 
 
 ------
 
