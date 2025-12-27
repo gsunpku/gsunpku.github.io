@@ -58,12 +58,12 @@ Awards and Honors
 - 2022 Inducted into HPCA **Hall of Fame**
 - 2021 **First Prize**, China General Chamber of Commerce National Commercial Science and Technology Progress Award
 - 2021 CCF-IEEE CS **Young Computer Scientist Award**
-- 2019 IEEE TCAD  **<font color=red>Donald O. Pederson Best Paper Award**
+- 2019 IEEE TCAD  **<font color=red>Donald O. Pederson Best Paper Award</font>**
 - 2016 Microsoft Research Asia **Collaborative Research Award**
 - 2016 IEEE/ACM ASP-DAC **Best Paper Nomination**
 - 2015 CCF-Intel **Young Faculty Development Program**
-- 2015  **<font color=red>ASP-DAC Best Paper Award**
-- 2014  **<font color=red>GLSVLSI Best Paper Award**
+- 2015 ASP-DAC **<font color=red>Best Paper Award</font>**
+- 2014 GLSVLSI **<font color=red>Best Paper Award</font>**
 - 2014 ASP-DAC **Best Paper Nomination**
 - 2012 EDAA **Outstanding Doctoral Dissertation Award**
 
