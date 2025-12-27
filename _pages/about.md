@@ -12,7 +12,7 @@ News
 ------
 - **Nov. 2025**: Invited talk at CCF Integrated Circuit Design and Automation Conference [CCF-DAC](https://ccf.org.cn/ccfdac2025). 
 - **Nov. 2025**: One paper is presented at PACT 2025. Congratulations to Yiqi, Xiping, Zhe, and Zhao.
-- **Oct. 2025**: Invited talk at CNCC Session (https://ccf.org.cn/cncc2025/schedule_d_4140). 
+- **Oct. 2025**: Invited talk at a [CNCC Session](https://ccf.org.cn/cncc2025/schedule_d_4140). 
 - **Sept. 2025**: Invited talk at the Global Memory Innovation Forum [GMIF](https://www.gmif.com.cn/). 
 - **Sept. 2025**: Invited talk at [CCFSys](https://ccf.org.cn/CCFSys2023).
 
