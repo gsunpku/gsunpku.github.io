@@ -48,24 +48,24 @@ Awards and Honors
 - 2025 IEEE/ACM ISCA **<font color=red>Best Paper Award</font>**
 - 2025 **CCF Natural Science First Prize**: China Computer Federation (CCF) Science and Technology Achievement Award
 - 2025 **MOE Natural Science Second Prize**: Ministry of Education Natural Science Award
-- 2025 **<font color=red>Best Paper Award</font>**: International Symposium of EDA (**ISEDA**)
-- 2025 **Best Paper Nomination**: International Symposium on High-Performance Computer Architecture (**HPCA**)
+- 2025 IEEE ISEDA **<font color=red>Best Paper Award</font>**
+- 2025 IEEE/ACM HPCA **Best Paper Nomination**
 - 2025 Inducted into ACM FPGA **Hall of Fame**
-- 2025 IEEE ICACS Large Model Hardware System Challenge, Second Place
+- 2025 IEEE ICACS Large Model Hardware System Challenge, **Second Place**
 - 2023 IEEE/ACM HPCA **<font color=red>Best Paper Award</font>**
 - 2022 DAC **Under 40 Innovators Award**
-- 2022 Huawei HiSilicon Lingxi Laboratory Best Academic Advisor Award
+- 2022 Huawei HiSilicon Lingxi Laboratory **Best Academic Advisor Award**
 - 2022 Inducted into HPCA **Hall of Fame**
-- 2021 China General Chamber of Commerce National Commercial Science and Technology Progress Award, **First Prize**
-- 2021 CCF-IEEE CS Young Computer Scientist Award
-- 2019 IEEE TCAD  **<font color=red> Donald O. Pederson Best Paper Award**
-- 2016 Microsoft Research Asia Collaborative Research Award
-- 2016 IEEE/ACM ASP-DAC Best Paper Nomination
-- 2015 CCF-Intel Young Faculty Development Program
-- 2015  **<font color=red> ASP-DAC Best Paper Award**
-- 2014  **<font color=red> GLSVLSI Best Paper Award**
-- 2014 ASP-DAC Best Paper Nomination
-- 2012 EDAA Outstanding Doctoral Dissertation Award
+- 2021 **First Prize**, China General Chamber of Commerce National Commercial Science and Technology Progress Award
+- 2021 CCF-IEEE CS **Young Computer Scientist Award**
+- 2019 IEEE TCAD  **<font color=red>Donald O. Pederson Best Paper Award**
+- 2016 Microsoft Research Asia **Collaborative Research Award**
+- 2016 IEEE/ACM ASP-DAC **Best Paper Nomination**
+- 2015 CCF-Intel **Young Faculty Development Program**
+- 2015  **<font color=red>ASP-DAC Best Paper Award**
+- 2014  **<font color=red>GLSVLSI Best Paper Award**
+- 2014 ASP-DAC **Best Paper Nomination**
+- 2012 EDAA **Outstanding Doctoral Dissertation Award**
 
 ------
 
