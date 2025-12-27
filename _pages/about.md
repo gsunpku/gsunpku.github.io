@@ -62,7 +62,7 @@ Awards and Honors
 - 2016 Microsoft Research Asia **Collaborative Research Award**
 - 2016 IEEE/ACM ASP-DAC **Best Paper Nomination**
 - 2015 CCF-Intel **Young Faculty Development Program**
-- 2015 ACM FPGA **Best Paper Award**
+- 2015 ACM FPGA **Best Paper Nomination**
 - 2015 IEEE/ACM ASP-DAC **Best Paper Award**
 - 2014 IEEE/ACM GLSVLSI **Best Paper Award**
 - 2014 IEEE/ACM ASP-DAC **Best Paper Nomination**
