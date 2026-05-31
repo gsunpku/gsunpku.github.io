@@ -1,0 +1,187 @@
+cv:
+  name: Guangyu Sun (孙广宇)
+  label: Full Professor
+  email: gsun@pku.edu.cn
+  location: Beijing, China
+  image: ""
+  summary: Full Professor in the School of Integrated Circuits at Peking University. Research focuses on computer architecture design and automation technologies, including domain-specific computing architectures, computing-in-memory architectures, scale-up interconnection architectures, and system-process co-design.
+
+  social_networks:
+    - network: GitHub
+      username: gsunpku
+    - network: Google Scholar
+      username: m3f70oYAAAAJ
+
+  address:
+    street: Room 345, IME Building
+    city: Beijing
+    region: Haidian District
+    postalCode: "100871"
+    countryCode: CN
+
+  sections:
+    Education:
+      - institution: Pennsylvania State University
+        location: University Park, PA, USA
+        url: https://www.psu.edu/
+        area: Computer Science and Engineering
+        studyType: Ph.D.
+        start_date: 2006
+        end_date: 2011
+        highlights:
+          - 'Thesis: "Exploring Memory Hierarchy Design with Emerging Non-volatile Memory Technologies"'
+          - "Advisor: Prof. Yuan Xie (now at HKUST)"
+          - "2012 EDAA Outstanding Doctoral Dissertation Award"
+
+      - institution: Tsinghua University
+        location: Beijing, China
+        url: https://www.tsinghua.edu.cn/
+        area: Microelectronics
+        studyType: M.S.
+        start_date: 2003
+        end_date: 2006
+
+      - institution: Tsinghua University
+        location: Beijing, China
+        url: https://www.tsinghua.edu.cn/
+        area: Electronic Engineering
+        studyType: B.S.
+        start_date: 1999
+        end_date: 2003
+
+    Experience:
+      - company: Peking University, School of Integrated Circuits
+        position: Full Professor, Vice Chair of Design Automation and Computing Systems Department
+        location: Beijing, China
+        start_date: 2025-09
+        end_date: present
+        highlights:
+          - Domain-specific computing architectures
+          - Computing-in-memory architectures
+
+      - company: Peking University, School of Integrated Circuits
+        position: Tenured Associate Professor, Vice Chair of Design Automation and Computing Systems Department
+        location: Beijing, China
+        start_date: 2021-08
+        end_date: 2025-08
+
+      - company: Peking University, School of Electronics Engineering and Computer Science
+        position: Tenured Associate Professor
+        location: Beijing, China
+        start_date: 2017-08
+        end_date: 2021-07
+
+      - company: Peking University, School of Electronics Engineering and Computer Science
+        position: Assistant Professor
+        location: Beijing, China
+        start_date: 2011-08
+        end_date: 2017-07
+
+      - company: IMEC
+        position: Visiting Scholar
+        location: Leuven, Belgium
+        start_date: 2010-03
+        end_date: 2010-06
+
+    Awards:
+      - title: "CCF Natural Science First Prize (ranked 1st)"
+        date: 2025
+        awarder: China Computer Federation (CCF)
+
+      - title: "MOE Natural Science Second Prize (ranked 2nd)"
+        date: 2025
+        awarder: Ministry of Education, China
+
+      - title: "ISCA Best Paper Award (first from a Chinese institution)"
+        date: 2025
+        awarder: IEEE/ACM
+
+      - title: "Inducted into ACM FPGA Hall of Fame (first from Asia-Pacific)"
+        date: 2025
+        awarder: ACM
+
+      - title: "HPCA Best Paper Nomination"
+        date: 2025
+        awarder: IEEE/ACM
+
+      - title: "ISEDA Best Paper Award"
+        date: 2025
+        awarder: IEEE
+
+      - title: "ICACS Large Model Hardware System Challenge, Second Place"
+        date: 2025
+        awarder: IEEE
+
+      - title: "HPCA Best Paper Award (first from a Chinese institution)"
+        date: 2023
+        awarder: IEEE/ACM
+
+      - title: "DAC Under 40 Innovators Award"
+        date: 2022
+        awarder: ACM/IEEE DAC
+
+      - title: "Huawei HiSilicon Lingxi Laboratory Best Academic Advisor Award"
+        date: 2022
+        awarder: Huawei
+
+      - title: "Inducted into HPCA Hall of Fame (first batch from China)"
+        date: 2022
+        awarder: IEEE/ACM
+
+      - title: "First Prize, National Commercial Science and Technology Progress Award (ranked 3rd)"
+        date: 2021
+        awarder: China General Chamber of Commerce
+
+      - title: "CCF-IEEE CS Young Computer Scientist Award"
+        date: 2021
+        awarder: CCF-IEEE CS
+
+      - title: "IEEE TCAD Donald O. Pederson Best Paper Award (first from a Chinese institution)"
+        date: 2019
+        awarder: IEEE
+
+      - title: "Microsoft Research Asia Collaborative Research Award"
+        date: 2016
+        awarder: Microsoft Research Asia
+
+      - title: "ASP-DAC Best Paper Nomination"
+        date: 2016
+        awarder: IEEE/ACM
+
+      - title: "CCF-Intel Young Faculty Development Program"
+        date: 2015
+        awarder: CCF-Intel
+
+      - title: "ASP-DAC Best Paper Award"
+        date: 2015
+        awarder: IEEE/ACM
+
+      - title: "GLSVLSI Best Paper Award"
+        date: 2014
+        awarder: IEEE/ACM
+
+      - title: "ASP-DAC Best Paper Nomination"
+        date: 2014
+        awarder: IEEE/ACM
+
+      - title: "EDAA Outstanding Doctoral Dissertation Award"
+        date: 2012
+        awarder: European Design Automation Association
+
+    Skills:
+      - name: Research Areas
+        level: Expert
+        icon: fa-solid fa-microchip
+        keywords: "Computer Architecture, Domain-specific Computing, Computing-in-memory, EDA, Interconnection Networks"
+
+    Languages:
+      - name: Chinese
+        summary: "Native speaker"
+
+      - name: English
+        summary: "Fluent"
+
+    Interests:
+      - name: Research
+        icon: fa-solid fa-flask
+        keywords: "Domain-specific Computing, Computing-in-memory, Scale-up Interconnection, System-Process Co-design"
